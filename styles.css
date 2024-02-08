@@ -1,0 +1,41 @@
+.logo {
+    width: 50px;
+    height: 40px;
+}
+
+.nav-item, .nav-link {
+    color: black;
+}
+
+.display-4 {
+    color: #f8f9fa;
+}
+
+#home {
+    background-color: #FF9843;
+    color: #f8f9fa;
+}
+
+h4{
+    font-size: 100px;
+}
+
+#products {
+    background-color: #86A7FC;
+}
+
+.our-products {
+    background-color: white;
+}
+
+
+.contact-us {
+    background-color: #f8f9fa;
+}
+
+#contact-form {
+    background-color: #FF9843;
+}
+#contact-btn {
+    background-color: #86A7FC;
+}
